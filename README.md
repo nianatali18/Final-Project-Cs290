@@ -15,3 +15,9 @@ Final Project
 - I started off scripting using Python socket and got it to work then it broke and I could not even comprehend the error so I switched to node since there were more reserouces. 
 
 ![IMG_9882 Small](https://user-images.githubusercontent.com/56011637/158477347-0ccad122-55e3-4817-922c-ac80c2f9d4c4.jpeg)
+
+
+
+
+
+![IMG_9883 Small](https://user-images.githubusercontent.com/56011637/158477527-b9d24577-6230-43e5-9ead-882a74241e73.jpeg)
