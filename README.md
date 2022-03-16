@@ -4,7 +4,7 @@ Final Project
 
 ## Project Idea 
 
-- I will be inserting how I planned this project, although.... I refactored many many times unfortunately so I could not capture every step. 
+- I will be inserting how I planned this project, although.... I refactored many many times unfortunately so I could not capture every step. I ended up changing the layouts of the pages to fit what I thought would make more sense. I also ended up finding resources that gave me a better way to do things so I would just scrap what I had and do it the "better way". I did not expect to find so may API's the challenge really was figuring out how to use them. 
 
 
 ![IMG_9881 Small](https://user-images.githubusercontent.com/56011637/158477118-7a56a12c-b2d0-40cb-9b5a-44861854ecdf.jpeg)
@@ -13,6 +13,7 @@ Final Project
 - The first page I created in the drawing was not what I thought it would look like at all. Once I had created it I stared at it and stared at it and moved on cause I thought it was enough.... until I realized I hated it. I did this a few times and scrapped the entire website layout and color scheme a few times. I just could not figure out how to make it professional and the youtube vids and documents I was finding were not what I had envisioned so I spent way too much time doing CSS and HTML from scratch (as in not using SASS or any templates/examples) just to figure out I hated the first page and redoing it the day of the due date. I used some examples and fit them to my vision of the site but some of the JS was hard to not "copy" since it was exactly what I had wanted in the first place. 
 - I had a lot of trouble inserting pictures and logos I have no idea what is wrong I tried everything I could think of and just could not do it. I found a way to use the logos without font aweseom since I wasted too much time trying to make that work. 
 - I started off scripting using Python socket and got it to work then it broke and I could not even comprehend the error so I switched to node since there were more reserouces. 
+- Also, I could not get a single image to show up for me, I tried to have someone help me and they also could not figure it out. 
 
 ### What went good:
 - I was able to add more and make it look a bit more like a decent looking page. I learned a lot of formatting stuff and am gunna redo the entire page AGAIN after this class because I really love it and want to learn more about scripting as it is the only thing I really am not sure about. 
