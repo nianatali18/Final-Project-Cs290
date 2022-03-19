@@ -1,0 +1,26 @@
+.mission {
+    position:relative;
+    bottom: 5px;
+    height: 10%;
+    width: 80%;
+    text-align: center;
+    color:black; 
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 2px solid black;
+    margin-left: 12%;
+    margin-bottom: 9%;
+    overflow: auto;
+} 
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+}
+
+.product_inforow:after {
+    content: "";
+    display: table;
+    clear: both;
+}
