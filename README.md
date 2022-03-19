@@ -2,6 +2,34 @@
 Final Project 
 
 
+#READ BEFORE OPENING FILES
+
+I know a lot of files but I will say which goes with what cause I made way too many and confused myself like I love to do :,(
+
+SERVER/CLIENT SIDE SCRIPTING (1)
+- client.py
+- server.py 
+(These do pretty much nothing they kept breaking so I left the frame and am probably not going to mess with it anymore,
+  I just them in there incase I wanted to mess with them later.) 
+ 
+PRODUCT PAGE AND ELEMENTS
+- Procuct.Html is main page
+  - Stylesheet.css
+- Creation.Html is gutted page with some content
+- Prod.Html is gutted page as well 
+- Mailing.Html I am keeping and making work better listed under /files
+  - Mailing also will be connected to success and fail 
+  - app.js is also connected 
+  - package.json 
+  - package-lock.json
+  - bootstrap.css
+
+
+I am posting updated page remodel soon today 3/19/22
+
+
+
+
 ## Project Idea 
 
 - I will be inserting how I planned this project, although.... I refactored many many times unfortunately so I could not capture every step. I ended up changing the layouts of the pages to fit what I thought would make more sense. I also ended up finding resources that gave me a better way to do things so I would just scrap what I had and do it the "better way". I did not expect to find so may API's the challenge really was figuring out how to use them. 
