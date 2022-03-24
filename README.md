@@ -71,3 +71,20 @@ I belive I did Amazon as one I liked and Depop as one I did not like
 I realllly wish I would have done more research on how to make the page professional and smooth. I really hate the way my page functions and am very frusturated by the scripting aspect. I want to have more of a professional layout and also have a page that I am proud of. I did not deliver when it came to that and will be fixing it over break because I am desperate to make it work. I actually found myself to be very passionate about web dev and have always thought I would hate it, but there are so many amazing applications that I would like to explore and I find myself inspecting every website I go to now.
 
 
+
+
+
+
+
+
+# REDESIGN OF WEBSITE
+
+### Idea of design 
+
+- I initially wanted to have a mostly monochromatic website and what I initially did was something I hated and felt like was very plain and ugly
+  I changed it to something that was more fitting to the product I had done and still hated it. So what I wanted to do is use what I had and 
+  redesign what I had done to be more interesting and highlight myself and my key interests. 
+  
+  - COLORS: Black, White, Pink
+  - 
+
